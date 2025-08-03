@@ -3,7 +3,7 @@ layout: page
 ---
 
 <style>
-body { background-color: #e6dac6; }
+body { background-color: #f4ebdc; }
 .site-header, .site-footer { display: none !important; }
 </style>
 
