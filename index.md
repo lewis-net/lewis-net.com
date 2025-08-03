@@ -54,6 +54,10 @@ New clients are welcomed by professional referral or introduction.
 
 ---
 
+<p style="text-align:center; color:#555; margin-top:2em;">
+  Contact: <a href="mailto:contact@lewis-net.com">contact@lewis-net.com</a>
+</p>
+
 <footer style="text-align:center; color:#555; margin-top:3em; padding:1em 0;">
   © 2025 Alexander Lewis. All rights reserved.
 </footer>
