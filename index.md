@@ -17,6 +17,8 @@ body { background-color: #f4ebdc; }
 
 **Alexander Lewis** delivers independent IT consulting with straightforward expertise and insight. Whether addressing essential IT needs or tackling complex technology challenges, Alexander provides clear, practical solutions to help your organization move forward.
 
+**Contact:** alexander@lewis-net.com 
+
 ---
 
 ### Services
@@ -55,5 +57,6 @@ New clients are welcomed by professional referral or introduction.
 ---
 
 <footer style="text-align:center; color:#555; margin-top:3em; padding:1em 0;">
+  lewis-net.com is owned and operated by Alexander Lewis, sole proprietor.<br>
   © 2025 Alexander Lewis. All rights reserved.
 </footer>
