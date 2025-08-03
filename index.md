@@ -57,6 +57,6 @@ New clients are welcomed by professional referral or introduction.
 ---
 
 <footer style="text-align:center; color:#666; margin-top:3em; padding:1em 0; border-top: 1px solid #ccc;">
-  lewis-net.com is owned and operated by Alexander Lewis, sole proprietor.<br>
+  lewis-net.com is owned and operated by Alexander Lewis, sole proprietor.
   <small style="margin-top:0.5em; display:block;">© 2025 Alexander Lewis. All rights reserved.</small>
 </footer>
