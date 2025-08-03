@@ -15,42 +15,42 @@ body { background-color: #e6dac6; }
 
 ### About
 
-**Alexander Lewis** provides independent IT consulting services. Alexander Lewis offers practical expertise and insights to help clients address both foundational requirements and complex technology challenges.
+**Alexander Lewis** delivers independent IT consulting with straightforward expertise and insight. Whether addressing essential IT needs or tackling complex technology challenges, Alexander provides clear, practical solutions to help your organization move forward.
 
 ---
 
 ### Services
 
-Professional services include:
+Areas of specialization include:
 
 - **Device Management & Deployment**  
-  Secure endpoint onboarding, provisioning, and lifecycle management.
+  Secure onboarding, provisioning, and lifecycle support for endpoints.
 - **Infrastructure & Network Planning**  
-  Design of secure, resilient, and scalable systems tailored to business needs.
+  Designing secure, scalable, and resilient systems customized for your business.
 - **Cloud & Collaboration Solutions**  
-  Implementation and support for collaboration and business continuity platforms.
-- **Process & Operational Improvement**  
-  Workflow optimization and growth enablement using automation and best practices.
+  Implementing and supporting modern collaboration and continuity platforms.
+- **Process Improvement & Automation**  
+  Optimizing workflows and enabling growth through automation and best practices.
 - **Security & Risk Management**  
-  Risk assessment, cybersecurity improvements, and assistance with compliance efforts.
+  Managing risk, strengthening cybersecurity, and guiding compliance initiatives.
 
 ---
 
 ### Approach
 
-Each engagement begins by identifying the client’s specific goals and requirements. A practical and tailored plan is then developed, ensuring professional guidance and dependable support throughout the process.
+Every engagement begins by understanding your unique needs and objectives. You’ll receive a practical, personalized plan along with dependable, ongoing support—ensuring progress at every step.
 
 ---
 
 ### Mission
 
-The aim is to provide trustworthy technology guidance that enables clients to start strong, remain aligned, and achieve their objectives.
+Provide reliable technology guidance that helps clients build strong foundations, maintain alignment, and achieve their ambitions.
 
 ---
 
 ### Referral Policy
 
-New clients are accepted through referral or professional introduction.
+New clients are welcomed by professional referral or introduction.
 
 ---
 
